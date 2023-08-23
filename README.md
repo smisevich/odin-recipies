@@ -1,2 +1,2 @@
 The Odin Project:
-Recipies!
+Recipes!
